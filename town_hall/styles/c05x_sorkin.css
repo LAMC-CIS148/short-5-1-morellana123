@@ -1,4 +1,72 @@
-body {
-	font-family: Arial, Helvetica, sans-serif;
-    font-size: 100%;
+html{
+	background-color: yellow;
+}	
+body{
+	width: 300px:
+	margin: 0;
+	border: double 5px blue;
+	font-align: center;
+	background color: white;
+	font-size: 185%;
+}
+
+header h1{
+	color: blue;
+}
+
+header h2{
+	color: black;
+}
+
+main{
+	padding: 20px:
+}
+
+h1{
+	font-size: 150%;
+	color: black;
+}
+
+h2 { 
+	font-size: 125%;
+	color: black;
+}
+
+h3{
+	font-size: 115%;
+	color: black;
+}
+p, blocknote, ul, li {
+	margin-top: 10px;
+	margin-bottom: 10px:
+}
+
+cite{ 
+	color: blue;
+	font-style: normal;
+}
+cite{ 
+	text-align: right;
+	margin-bottom: 0.75em;
+
+}
+
+img{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+footer p{
+	font-size:90%;
+	font-width: bold;
+	font-align: center;
+	mrgin-top: 10px;
+	margin-bottom: 10px;
+}
+
+footer {
+	border-top: 4px solid blue;
+	padding-top; 10px;
+	text-align: center;
 }
